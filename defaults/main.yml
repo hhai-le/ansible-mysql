@@ -1,0 +1,5 @@
+---
+# defaults file for mysql
+db_user: database_user
+db_pass: database_pass
+db_name: database_name
